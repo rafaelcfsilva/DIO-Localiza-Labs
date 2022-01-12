@@ -1,0 +1,15 @@
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\bin\Debug\net6.0\Conecta VS - Github.exe
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\bin\Debug\net6.0\Conecta VS - Github.deps.json
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\bin\Debug\net6.0\Conecta VS - Github.runtimeconfig.json
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\bin\Debug\net6.0\Conecta VS - Github.dll
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\bin\Debug\net6.0\ref\Conecta VS - Github.dll
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\bin\Debug\net6.0\Conecta VS - Github.pdb
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.csproj.AssemblyReference.cache
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.AssemblyInfoInputs.cache
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.AssemblyInfo.cs
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.dll
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\ref\Conecta VS - Github.dll
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.pdb
+C:\workspace\DIO\DIO - Localiza Labs\Conecta VS - Github\Conecta VS - Github\obj\Debug\net6.0\Conecta VS - Github.genruntimeconfig.cache
