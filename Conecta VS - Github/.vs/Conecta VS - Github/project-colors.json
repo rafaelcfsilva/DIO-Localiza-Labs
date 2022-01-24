@@ -5,7 +5,12 @@
       "ProjectGuid": "299a6cf2-6c77-411a-b5b5-53843d39292a",
       "DisplayName": "Conecta VS - Github",
       "ColorIndex": 0
+    },
+    "39490d5f-f01f-484d-bbf8-8b2fc87ec652": {
+      "ProjectGuid": "39490d5f-f01f-484d-bbf8-8b2fc87ec652",
+      "DisplayName": "Conecta VS - GithubTests",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

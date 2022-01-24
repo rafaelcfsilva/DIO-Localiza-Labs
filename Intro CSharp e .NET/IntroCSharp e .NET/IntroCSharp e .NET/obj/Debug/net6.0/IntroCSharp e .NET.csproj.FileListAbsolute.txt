@@ -1,0 +1,15 @@
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\bin\Debug\net6.0\IntroCSharp e .NET.exe
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\bin\Debug\net6.0\IntroCSharp e .NET.deps.json
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\bin\Debug\net6.0\IntroCSharp e .NET.runtimeconfig.json
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\bin\Debug\net6.0\IntroCSharp e .NET.dll
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\bin\Debug\net6.0\ref\IntroCSharp e .NET.dll
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\bin\Debug\net6.0\IntroCSharp e .NET.pdb
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.csproj.AssemblyReference.cache
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.AssemblyInfoInputs.cache
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.AssemblyInfo.cs
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.dll
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\ref\IntroCSharp e .NET.dll
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.pdb
+C:\workspace\DIO\DIO - Localiza Labs\Intro CSharp e .NET\IntroCSharp e .NET\IntroCSharp e .NET\obj\Debug\net6.0\IntroCSharp e .NET.genruntimeconfig.cache
